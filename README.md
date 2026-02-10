@@ -20,11 +20,11 @@ Overall, the analysis highlights Elist’s reliance on premium products for reve
 
 | Insight Area | Key Observation | Business Interpretation |
 |------|-------------|-------------|
-| YoY Growth | 2021 shows strong YoY growth across most months, while 2022 shows consistent YoY decline | Indicates post-pandemic peak in 2021 followed by demand normalization in 2022 |
+| YoY Growth | 2020 shows strong YoY growth across most months, while 2022 shows consistent YoY decline | Indicates post-pandemic peak in 2021 followed by demand normalization in 2022 |
 | Seasonality | Sales peak during Aug–Dec across multiple years | Q3–Q4 are critical revenue-driving periods |
 | Volatility | Large MoM fluctuations observed, especially in 2020 | Reflects external shocks and recovery cycles impacting revenue |
 
-![Alt Text](YoY of Sales Revenue.png)
+![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Sales%20Revenue.png)
 
 #### Key Insights ####
 
