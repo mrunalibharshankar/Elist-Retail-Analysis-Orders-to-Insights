@@ -24,7 +24,7 @@ Overall, the analysis highlights Elist’s reliance on premium products for reve
 | Seasonality | Sales peak during Aug–Dec across multiple years | Q3–Q4 are critical revenue-driving periods |
 | Volatility | Large MoM fluctuations observed, especially in 2020 | Reflects external shocks and recovery cycles impacting revenue |
 
-![Image Alt Text]()
+![Image Alt Text](YoY of Sales Revenue.png)
 
 #### Key Insights ####
 
