@@ -24,7 +24,11 @@ Overall, the analysis highlights Elist’s reliance on premium products for reve
 | Seasonality | Sales peak during Aug–Dec across multiple years | Q3–Q4 are critical revenue-driving periods |
 | Volatility | Large MoM fluctuations observed, especially in 2020 | Reflects external shocks and recovery cycles impacting revenue |
 
-![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Sales%20Revenue.png)
+| Sales Revenue YoY | Sales Revenue MoM |
+|------------------|------------|
+| ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Sales%20Revenue.png)|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/MoM%20of%20Sales%20Revenue.png)|
+
+
 
 #### Key Insights ####
 
@@ -42,6 +46,12 @@ Sales exhibit clear seasonality, with consistent uplift during Q3–Q4, making t
 | Seasonality | Orders consistently peak during Q3–Q4 | Seasonal demand and campaigns strongly influence order volume |
 | Volatility | 2022 shows steep negative YoY values (especially Sep–Dec) | Indicates customer demand contraction rather than short-term fluctuation |
 
+
+| Orders YoY | Orders MoM |
+|------------------|------------|
+|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Orders.png)|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/MoM%20of%20Orders.png)|
+
+
 #### Key Insights ####
 
 Order volumes experienced strong YoY expansion in 2020–2021, reflecting increased customer acquisition and demand.
@@ -58,6 +68,12 @@ Seasonal spikes in Q3–Q4 remain consistent, highlighting the importance of dem
 | YoY Stability | AOV remains relatively stable compared to orders and sales | Revenue volatility is driven more by volume than basket size |
 | 2021 Decline | Majority of 2021 months show negative YoY AOV | Increased discounting or shift toward lower-priced products |
 | 2022 Recovery | AOV decline moderates in 2022 with some positive YoY months | Pricing strategy or product mix improvement |
+
+| AOV YoY | AOV MoM |
+|------------------|------------|
+|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20AOV.png)| ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/MoM%20of%20AOV.png)|
+
+
 
 #### Key Insights ####
 
