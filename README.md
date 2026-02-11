@@ -94,8 +94,8 @@ Partial AOV recovery in 2022 indicates improved pricing discipline or customer p
 | Refund Rate |Most Refunded Products: Bose Soundsport Headphones, Samsung Charging Cable Pack, and Samsung Webcam show the highest refund rates. Least Refunded Products: MacBook Air Laptop and ThinkPad Laptop consistently rank among the lowest in refund rates. Apple AirPods Headphones maintain a relatively consistent refund rate year over year. Accessories tend to have higher historical refund rates than laptops. Refund rates steadily decline from 2019 to 2022.  | Accessory and electronics add-ons may face higher compatibility or quality issues, requiring better product descriptions and QA checks. High-value products show stronger customer satisfaction and confidence, supporting continued focus on premium product offerings.|
 
 
-   Product Performance by Sales Revenue 
-![Alt Text]
+#### Product Performance by Northstar Metrics: ####
+![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Product%20Performance.png)
          
    ### 3. Loyalty Program Evaluation ###
       1. Evaluation Focus
