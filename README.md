@@ -10,6 +10,8 @@ This analysis explores sales data from Elist, an electronics retailer offering p
 
    Sales performance showed a clear concentration in high-value products. MacBook Air and ThinkPad laptops consistently contributed the majority of total revenue despite lower order volumes with only 6,880 combined orders, 
    their $1,381.05 average order value (AOV) far exceeded other categories, underscoring the outsized role premium products play in overall business performance.
+   ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Revenue%20v%20Orders%20v%20AOV.png)
+   
    
    From a regional perspective, **North America** emerged as the strongest market, accounting for the largest share of **51.75%** revenue across all years. In contrast, other regions like **APAC and LATAM** showed comparatively lower    demand and higher variability in product performance, indicating opportunities for targeted regional strategies and improved market penetration.
 
