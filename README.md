@@ -12,11 +12,12 @@ This analysis explores sales data from Elist, an electronics retailer offering p
    their $1,381.05 average order value (AOV) far exceeded other categories, underscoring the outsized role premium products play in overall business performance.
    ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Revenue%20v%20Orders%20v%20AOV.png)
    
+   From a regional perspective, North America emerged as the dominant market, accounting for 51.75% of total revenue across all years. In contrast, APAC and LATAM demonstrated comparatively lower demand and 
+   higher variability in product performance, signaling opportunities for targeted regional strategies and deeper market penetration.
    
-   From a regional perspective, **North America** emerged as the strongest market, accounting for the largest share of **51.75%** revenue across all years. In contrast, other regions like **APAC and LATAM** showed comparatively lower    demand and higher variability in product performance, indicating opportunities for targeted regional strategies and improved market penetration.
 
-   Analysis of customer behavior revealed that **12% in 2019 to over 50% by 2021** grew by **loyalty program members**, with higher repeat purchase rates compared to non-members. 
-   However, with **$30** difference in **AOV between    loyalty and non-loyalty customers** suggests that the program may benefit from stronger incentives and personalization to further drive engagement and long-term retention.
+   Analysis of customer behavior revealed meaningful growth in loyalty program adoption, rising from 12% membership in 2019 to over 50% by 2021, with loyalty members showing higher repeat purchase rates than non-members. 
+   However, the relatively modest $30 AOV gap between loyalty and non-loyalty customers suggests the program may benefit from stronger incentives and personalization to drive deeper engagement and long-term retention.
 
    Overall, the analysis highlights Elist’s reliance on premium products for revenue growth, the strong performance of the North American market, and clear opportunities to enhance loyalty program effectiveness and 
    regional sales strategies.
