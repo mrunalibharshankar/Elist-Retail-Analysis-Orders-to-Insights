@@ -4,14 +4,13 @@ This analysis explores sales data from Elist, an electronics retailer offering p
 
 ## Table of Contents
 ### 1. Executive Summary ###
-   Elist recorded a **total sales revenue of $28.12M** over a **2019 - 2022 year period**, with approximately **108k orders** placed across all the product categories, including laptops, audio devices, phones and accessories.
+   Elist recorded $28.12M in total sales revenue from 2019 to 2022, with approximately 108K orders placed across product categories including laptops, audio devices, phones, and accessories. 
+   Sales peaked at $1.25M in December 2020, likely driven by holiday demand, before gradually declining to a low of $0.18M in October 2022.
    ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Overall%20Sales%20Trend%20Y19-22.png)
 
-   Highest Sales of $1.25M recorded on Dec 2020 and later it gradually declines to the lowest at $0.18M on Oct 2022.
-
-   Sales performance showed a clear concentration in high-value products, with **MacBooks Air Laptops and ThinkPads Laptops** consistently contributing the majority of total revenue despite lower order volumes. 
-   With overall **6880  order counts** and **$ 1381.05 average order value (AOV)** was largely driven by laptop sales, highlighting the importance of premium products to overall business performance.
-
+   Sales performance showed a clear concentration in high-value products. MacBook Air and ThinkPad laptops consistently contributed the majority of total revenue despite lower order volumes with only 6,880 combined orders, 
+   their $1,381.05 average order value (AOV) far exceeded other categories, underscoring the outsized role premium products play in overall business performance.
+   
    From a regional perspective, **North America** emerged as the strongest market, accounting for the largest share of **51.75%** revenue across all years. In contrast, other regions like **APAC and LATAM** showed comparatively lower    demand and higher variability in product performance, indicating opportunities for targeted regional strategies and improved market penetration.
 
    Analysis of customer behavior revealed that **12% in 2019 to over 50% by 2021** grew by **loyalty program members**, with higher repeat purchase rates compared to non-members. 
