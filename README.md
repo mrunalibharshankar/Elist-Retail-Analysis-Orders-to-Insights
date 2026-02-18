@@ -16,8 +16,14 @@ This analysis explores sales data from Elist, an electronics retailer offering p
    higher variability in product performance, signaling opportunities for targeted regional strategies and deeper market penetration.
    ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Regional%20Metrics.png)
 
-   Analysis of customer behavior revealed meaningful growth in loyalty program adoption, rising from 12% membership in 2019 to over 50% by 2021, with loyalty members showing higher repeat purchase rates than non-members. 
-   However, the relatively modest $30 AOV gap between loyalty and non-loyalty customers suggests the program may benefit from stronger incentives and personalization to drive deeper engagement and long-term retention.
+   Membership Growth (top bars):
+   Loyalty member growth started very low at 1.83% in 2019, surged to a peak of 19.14% in 2021, then eased back to 11.31% in 2022. Non-loyalty growth followed a similar arc but peaked earlier in 2020 at 19.28%, then steadily declined    to 9.97% by 2022. This suggests the loyalty program gained strong momentum through 2021 but may be maturing or slowing in its ability to attract new members.
+   
+   AOV % (bottom lines):
+   Loyalty members showed steady AOV growth from $207 in 2019 to $245 in 2022, while non-loyalty customers were more volatile, peaking at $345 in 2020 before declining to $214 in 2022. 
+   Notably, 2022 marks the first year loyalty members outspent non-loyalty customers, suggesting the program is beginning to drive stronger purchasing behavior, though there remains room to further incentivize 
+   higher spend among members.
+   ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Loyalty%20Memebership%20Growth.png)
 
    Overall, the analysis highlights Elist’s reliance on premium products for revenue growth, the strong performance of the North American market, and clear opportunities to enhance loyalty program effectiveness and 
    regional sales strategies.
