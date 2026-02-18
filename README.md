@@ -12,9 +12,9 @@ This analysis explores sales data from Elist, an electronics retailer offering p
    their $1,381.05 average order value (AOV) far exceeded other categories, underscoring the outsized role premium products play in overall business performance.
    ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Revenue%20v%20Orders%20v%20AOV.png)
    
-   From a regional perspective, North America emerged as the dominant market, accounting for 51.75% of total revenue across all years. In contrast, APAC and LATAM demonstrated comparatively lower demand and 
+   From a regional perspective, North America emerged as the dominant market, accounting for 51.78% of total revenue. In contrast, APAC and LATAM demonstrated comparatively lower demand and 
    higher variability in product performance, signaling opportunities for targeted regional strategies and deeper market penetration.
-   
+   ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Regional%20Metrics.png)
 
    Analysis of customer behavior revealed meaningful growth in loyalty program adoption, rising from 12% membership in 2019 to over 50% by 2021, with loyalty members showing higher repeat purchase rates than non-members. 
    However, the relatively modest $30 AOV gap between loyalty and non-loyalty customers suggests the program may benefit from stronger incentives and personalization to drive deeper engagement and long-term retention.
