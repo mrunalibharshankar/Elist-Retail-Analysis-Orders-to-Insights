@@ -1,10 +1,11 @@
 # Elist-Retail-Analysis-Orders-to-Insights
 ## Project Overview
-This analysis explores sales data from Elist, an electronics retailer offering electronics products. The goal of the project is to uncover sales trends, product performance insights, loyalty program effectiveness, and regional demand patterns to support data-driven business decisions.
+This analysis explores sales data from Elist, an electronics retailer offering premium electronics products. The goal of the project is to uncover sales trends, product performance insights, loyalty program effectiveness, and regional demand patterns to support data-driven business decisions.
 
 ## Table of Contents
 ### 1. Executive Summary ###
    Elist recorded a **total sales revenue of $28.12M** over a **2019 - 2022 year period**, with approximately **108k orders** placed across all the product categories, including laptops, audio devices, phones and accessories.
+   ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Overall%20Sales%20Trends.png)
 
    Sales performance showed a clear concentration in high-value products, with **MacBooks Air Laptops and ThinkPads Laptops** consistently contributing the majority of total revenue despite lower order volumes. With overall **6880 order counts** and **$ 1381.05 average order value (AOV)** was largely driven by laptop sales, highlighting the importance of premium products to overall business performance.
 
