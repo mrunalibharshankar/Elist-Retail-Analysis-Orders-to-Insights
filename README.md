@@ -41,7 +41,7 @@ This analysis explores sales data from Elist, an electronics retailer offering p
 
 | Metrics Trend Sales Revenue  | Sales Revenue YoY |
 |------------------|------------|
-![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Metrics%20Trend%20sales%20revenue.png)|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Sales%20Revenue.png)|
+| <img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Metrics%20Trend%20sales%20revenue.png" width="580"> | <img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Sales%20Revenue.png" width="320"> |
 > 🟦 Blue = Positive Growth | 🟧 Orange = Negative Growth
 
 
@@ -66,7 +66,7 @@ Sales exhibit clear seasonality, with consistent uplift during Q3–Q4, making t
 
 | Metrics Trend Orders | Orders YoY |
 |------------------|------------|
-![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Metrics%20Trends%20orders.png)|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Orders.png)|
+| <img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Metrics%20Trends%20orders.png" width="550"> | <img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Orders.png" width="350"> |
 > 🟦 Blue = Positive Growth | 🟧 Orange = Negative Growth
 
 
@@ -91,7 +91,7 @@ Seasonal spikes in Q3–Q4 remain consistent, highlighting the importance of dem
 
 | Metrics Trend AOV  | AOV YoY |
 |------------------|------------|
-![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Metrics%20Trends%20AOV.png)| ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20AOV.png)|
+| <img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Metrics%20Trends%20AOV.png" width="550"> | <img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20AOV.png" width="350"> |
 > 🟦 Blue = Positive Growth | 🟧 Orange = Negative Growth
 
 
