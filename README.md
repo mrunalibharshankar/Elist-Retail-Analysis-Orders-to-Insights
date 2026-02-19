@@ -243,7 +243,7 @@ standalone revenue driver.
 
 > 🟩 Green = Higher Refund Rate | 🟥 Red = Lower Refund Rate
 
-<img src="url" width="900">
+<img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Refund%20Rate%20by%20Product%20%26%20Year.png" width="900">
 
 #### Key Insights
 
