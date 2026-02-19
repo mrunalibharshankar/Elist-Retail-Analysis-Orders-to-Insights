@@ -38,11 +38,13 @@ This analysis explores sales data from Elist, an electronics retailer offering p
 | Seasonality | Sales peak during Aug–Dec across multiple years | Q3–Q4 are critical revenue-driving periods |
 | Volatility | Large MoM fluctuations observed, especially in 2021 | Reflects external shocks and recovery cycles impacting revenue |
 
+
+
 > 🟦 Blue = Positive Growth | 🟧 Orange = Negative Growth
 
-| Sales Revenue YoY | Sales Revenue MoM |
+| Metrics Trend Sales Revenue  | Sales Revenue YoY |
 |------------------|------------|
-| ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Sales%20Revenue.png)|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/MoM%20of%20Sales%20Revenue.png)|
+![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Metrics%20Trend%20sales%20revenue.png)|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Sales%20Revenue.png)|
 
 
 
@@ -64,9 +66,9 @@ Sales exhibit clear seasonality, with consistent uplift during Q3–Q4, making t
 
 > 🟦 Blue = Positive Growth | 🟧 Orange = Negative Growth
 
-| Orders YoY | Orders MoM |
+| Metrics Trend Orders | Orders YoY |
 |------------------|------------|
-|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Orders.png)|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/MoM%20of%20Orders.png)|
+|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Metrics%20Trend%20orders.png)|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Orders.png)|
 
 
 #### Key Insights ####
