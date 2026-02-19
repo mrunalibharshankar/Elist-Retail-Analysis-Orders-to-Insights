@@ -264,7 +264,7 @@ The deep dive below examines how membership growth and spending behavior differ 
 
 > 🟩 Green = Higher Orders | 🟥 Red = Lower Orders
 
-<img src="url" width="900">
+<img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Membership%20Growth%20by%20Product%20%26%20Year.png" width="900">
 
 #### Key Insights
 Apple AirPods Headphones are the strongest loyalty product in the portfolio, peaking at 11,267 loyalty orders in 2021 significantly outpacing all other products. This suggests AirPods are a key entry point into the loyalty program and should be prioritized in loyalty marketing campaigns.
