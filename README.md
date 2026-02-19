@@ -68,7 +68,7 @@ Sales exhibit clear seasonality, with consistent uplift during Q3–Q4, making t
 
 | Metrics Trend Orders | Orders YoY |
 |------------------|------------|
-|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Metrics%20Trend%20orders.png)|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Orders.png)|
+![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Metrics%20Trends%20orders.png)|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Orders.png)|
 
 
 #### Key Insights ####
