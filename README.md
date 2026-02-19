@@ -126,9 +126,9 @@ spending levels.
 | Consistent Decline | All top products show revenue decline in 2022 | Post-pandemic normalization affected entire product portfolio |
 | Underperformers | Bose SoundSport generated $2,118 in 2020 as its best year | Consistently negligible demand across all years |
 
-> 🟢 Green = Higher Revenue | 🔴 Red = Lower Revenue
+> 🟩 Higher Revenue | 🟥 Lower Revenue
 
-<img src="url" width="900">
+<img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Sales%20Revenue%20by%20Product%20%26%20Year.png" width="900">
 
 #### Key Insights
 
@@ -154,6 +154,43 @@ across all four years, with a peak of just $2,118 in 2020
 free up inventory and marketing resources.
 
 
+#### 2.2 Quantity by Product & Year
+
+| Insight Area | Key Observation | Business Interpretation |
+|------|-------------|-------------|
+| Top Performer | Apple AirPods Headphones dominated order volume, peaking at 15,998 units in 2020 and 15,255 in 2021 | High-volume, lower-priced product drives majority of order count despite lower revenue contribution |
+| Volume vs Revenue Gap | 27in 4K Gaming Monitor leads revenue but ranks 2nd in quantity | Premium pricing drives revenue despite lower unit sales |
+| Consistent Decline | All products show quantity decline in 2022 | Broad market contraction affected order volumes across entire portfolio |
+| Underperformers | Bose SoundSport recorded only 17 units in 2020 as its best year | Negligible demand confirms product is not resonating with customers |
+
+> 🟩 Green = Higher Quantity | 🟥 Red = Lower Quantity
+
+<img src="url" width="900">
+
+#### Key Insights
+
+Apple AirPods Headphones overwhelmingly lead in order 
+volume, with 15,998 units in 2020 and 15,255 in 2021 — 
+far exceeding all other products. This contrasts sharply 
+with the revenue ranking where the 27in 4K Gaming Monitor 
+leads, highlighting that AirPods drive volume while the 
+monitor drives value.
+
+The 27in 4K Gaming Monitor ranks consistently second in 
+quantity across all years despite being the top revenue 
+product — confirming its premium pricing is the primary 
+driver of revenue leadership rather than order volume.
+
+Samsung Charging Cable Pack ranks surprisingly high in 
+quantity (5K–7K units annually) but contributes minimally 
+to revenue — indicating it is a high-volume, low-value 
+accessory that inflates order counts without meaningfully 
+impacting business performance.
+
+Bose SoundSport recorded just 17 units in its best year 
+(2020), dropping to a single unit by 2022 — reinforcing 
+the case for product discontinuation across all metrics, 
+not just revenue.
 
 
 
@@ -168,13 +205,11 @@ free up inventory and marketing resources.
 
 
 
-| Orders Quantity | Strong and consistent Q3 and Q4 sales spikes are observed across products, driven by Holiday shopping. The 2.7in 4k Gaming monitor, Samsung Charging cable pack and apple airpods shows the largest Q4 order surge, reinforcing the their role as seasonal bestsellers. Sales typically dip in Jan and Feb, reflecting post holiday demand slowdown. Macbook Air, Thinkpad laptops demonstrate consistent baseline demand, with stable order volume throughout Q2 and Q3, though lower than Q4 peaks. Order volume is highly seasonal, with Q4 driving a disproportionate share of annual orders. Core products maintaine steady demand year over year making them reliable revenue anchors. Non-core products shows negligible order activity.| Alignn inventory and marketing strategies to captialize on Q4 demand spikes. Use Q1 promotions to smooth post holiday sales declines. Focus on product expansion and cross selling around consistently demanded products.|
-| AOV | AOV peaked in 2020 at $300.16, driven by increased demand for high ticket items during the pandamic. AOV declined in 2021($254.71) and 2022 ($229.91), reflecting post pandamic normalisation. The Macbook Air ($1588.12), Thinkpad Laptop ($1099.56) and apple iphone ($740.72) are the largest contributors to AOV, due to high price point. Low cost products such as the Samsung Charging Cable pack ($20.20) and Samsung Webcam ($50.43) maintain stable sales but have minimal impact on AOV.| AOV is heavily influenced by premium products mix, not pricing chnages. Reduced demand for high ticket items directly lower AOV Lower priced accessories provide volume stabilty but not materially improve revenue per order.| Provide incentives on high AOV products through finiancing options, limited time offers, or loyalty program rewards. Use accessories as add on rather than standalone sales to lift AOV Promote laptop and monitor bundles during peak season to stabalize AOV.|
-| Refund Rate |Most Refunded Products: Bose Soundsport Headphones, Samsung Charging Cable Pack, and Samsung Webcam show the highest refund rates. Least Refunded Products: MacBook Air Laptop and ThinkPad Laptop consistently rank among the lowest in refund rates. Apple AirPods Headphones maintain a relatively consistent refund rate year over year. Accessories tend to have higher historical refund rates than laptops. Refund rates steadily decline from 2019 to 2022.  | Accessory and electronics add-ons may face higher compatibility or quality issues, requiring better product descriptions and QA checks. High-value products show stronger customer satisfaction and confidence, supporting continued focus on premium product offerings.|
 
 
-#### Product Performance by Northstar Metrics: ####
-![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Product%20Performance.png)
+
+
+
          
    ### 3. Loyalty Program Evaluation ###
       1. Evaluation Focus
