@@ -311,9 +311,82 @@ The 27in 4K Gaming Monitor shows a consistent loyalty AOV premium of ~$50–$70 
 > and retention.
 
 ---
-### 4. Regional Performance Analysis ###
-      
----     
+
+### 4. Regional Performance Evaluation
+
+### Overview
+Elist operates across four regions — NA, EMEA, APAC, and LATAM. North America dominates revenue at 51.78%, followed by EMEA at 29.24%. APAC and LATAM represent smaller but potentially growable markets at 13.00% and 5.98% respectively.
+
+---
+
+### 4.1 Revenue Distribution by Region
+
+| Insight Area | Key Observation | Business Interpretation |
+|------|-------------|-------------|
+| NA Dominance | NA accounts for 51.78% ($14.5M) of total revenue | Primary market driving majority of business performance |
+| EMEA Second | EMEA contributes 29.24% ($8.2M) | Strong secondary market worth continued investment |
+| Growth Opportunity | APAC (13%) and LATAM (5.98%) lag significantly | Untapped markets with room for strategic expansion |
+
+<img src="url" width="900">
+
+#### Key Insights
+
+North America is Elist's dominant market, generating $14.5M - more than the combined revenue of EMEA, APAC and LATAM. This concentration creates both strength and risk, as over-reliance on a single region makes overall performance vulnerable to NA-specific demand shifts.
+
+EMEA at $8.2M represents a strong and established secondary market. Its 29.24% share suggests meaningful customer penetration and warrants continued investment to close the gap with NA.
+
+APAC and LATAM together contribute less than 20% of total revenue despite representing large global populations signaling significant untapped growth potential with the right regional strategy and product mix.
+
+### 4.2 North America Deep Dive — Revenue by Country
+
+| Insight Area | Key Observation | Business Interpretation |
+|------|-------------|-------------|
+| US Dominance | United States accounts for 91% ($13.28M) of NA revenue | NA performance is almost entirely driven by the US market |
+| Canada Secondary | Canada contributes 8% ($1.18M) | Meaningful but distant second within NA |
+| Negligible Others | Puerto Rico, Jamaica, Bahamas each at 0% | No meaningful revenue contribution outside US and Canada |
+
+<img src="url" width="900">
+
+#### Key Insights
+
+The United States overwhelmingly dominates North America at 91% of regional revenue meaning NA's overall performance is effectively a proxy for US performance. 
+Any significant shift in US demand will directly impact Elist's global revenue.
+
+Canada at 8% ($1.18M) is the only other meaningful contributor within NA. Given geographic and cultural proximity to the US, Canada represents the most accessible expansion opportunity within the region.
+
+### 4.3 Top Revenue Product by Region
+
+| Insight Area | Key Observation | Business Interpretation |
+|------|-------------|-------------|
+| Consistent Leader | 27in 4K Gaming Monitor ranks #1 across all four regions | Universal appeal — strongest product regardless of market |
+| Consistent Rankings | Product rankings are identical across APAC, EMEA, LATAM and NA | No significant regional product preference variation |
+| Underperformer | Bose SoundSport ranks last (#8) in every region | Confirms global underperformance — not a regional issue |
+
+<img src="url" width="900">
+
+#### Key Insights
+
+The 27in 4K Gaming Monitor leads revenue in every region APAC, EMEA, LATAM and NA — confirming it as Elist's most universally appealing product. Its consistent top ranking across diverse markets makes it the safest product to prioritize in global inventory and marketing.
+
+Product rankings are remarkably consistent across all four regions, with MacBook Air ranking 2nd or 3rd everywhere and AirPods ranking 2nd or 3rd as well. 
+This suggests Elist's customer preferences are globally uniform rather than region-specific which simplifies global product strategy but also limits regional differentiation opportunities.
+
+Bose SoundSport's last place ranking across every region confirms its underperformance is a global issue rather than a regional one strengthening the case for discontinuation.
+
+### Regional Performance Summary
+
+| Region | Revenue | % of Total | Top Product | Opportunity |
+|--------|---------|------------|-------------|-------------|
+| NA | $14.5M | 51.78% | 27in 4K Gaming Monitor | Maintain dominance |
+| EMEA | $8.2M | 29.24% | 27in 4K Gaming Monitor | Close gap with NA |
+| APAC | $3.6M | 13.00% | 27in 4K Gaming Monitor | Market penetration |
+| LATAM | $1.7M | 5.98% | 27in 4K Gaming Monitor | Strategic expansion |
+
+> **Key Takeaway:** Elist's revenue is heavily concentrated in NA (driven almost entirely by the US) with consistent product preferences across all regions. While this simplifies global product
+> strategy, it highlights the need for regional diversification particularly in APAC and LATAM to reduce dependency on the US market and unlock new growth opportunities.
+
+---
+         
 4. Business Impact & Next Steps
    1. Overall Insights
    2. Future Enhancements
