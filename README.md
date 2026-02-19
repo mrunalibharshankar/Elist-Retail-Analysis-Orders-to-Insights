@@ -118,9 +118,56 @@ spending levels.
 
       
 ### 2. Product Performance Analysis ###
+#### 2.1 Sales Revenue by Year and Products
 | Insight Area | Key Observation | Business Interpretation |
 |------|-------------|-------------|
-| Sales Revenue | The 2.7in 4k Gaming Monitor is the top-performing products, generating $9.8M in total revenue, consistently strong year-over-year performance. Apple Airpod Headphones ($7.7M) and Macbook Air Laptop ($6.29M) rank as second and third highest revenue contributors.The Bose SoundSport Headphones significantly underperformed, generating only $3339 in total sales, with no recorded sales in multiple months, indicating exteremly low demand.Apple iPhone is the second lowest revenue performer, with $213k in total sales.|Revenue is highly concentrated around a small number of products. High ticket and premium electronics drive the majority of sales, while several products contribute minimal revenue. Under performing products shows sign of weak demand and inconsistent sales patterns.|Proritizing top performing products in marketing and inventory planning. Evaluate whether low performing products ( Bose Soundsport, iphone) should be repositioned, discounted, bundled or discontinued. Explore bundling accessories with high performing products to maximize overall sales.|
+| Top Performer  | 27in 4K Gaming Monitor peaked in 2021 at $3.35M.|Unlike most products peaking in 2020, sustained demand continued into 2021.|
+| Strong Contributors | MacBook Air peaked in 2020 at $3.09M, AirPods consistent across 2020–2021 | Premium laptops and audio drove majority of revenue during peak years |
+| Consistent Decline | All top products show revenue decline in 2022 | Post-pandemic normalization affected entire product portfolio |
+| Underperformers | Bose SoundSport generated $2,118 in 2020 as its best year | Consistently negligible demand across all years |
+
+> 🟢 Green = Higher Revenue | 🔴 Red = Lower Revenue
+
+<img src="url" width="900">
+
+#### Key Insights
+
+The 27in 4K Gaming Monitor is the standout revenue driver, 
+peaking at $3.35M in 2021 — notably a year later than most 
+products, suggesting sustained demand beyond the initial 
+pandemic surge and making it the most resilient high-value 
+product in the portfolio.
+
+MacBook Air and Apple AirPods together dominated the 2020 
+peak, contributing over $5.5M combined — confirming that 
+premium laptops and audio products were the primary 
+beneficiaries of pandemic-driven electronics demand.
+
+All products experienced revenue contraction in 2022, 
+indicating the decline is market-wide rather than 
+product-specific — pointing to an external demand issue 
+rather than individual product failure.
+
+Bose SoundSport Headphones recorded negligible revenue 
+across all four years, with a peak of just $2,118 in 2020 
+— making it a strong candidate for discontinuation to 
+free up inventory and marketing resources.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Orders Quantity | Strong and consistent Q3 and Q4 sales spikes are observed across products, driven by Holiday shopping. The 2.7in 4k Gaming monitor, Samsung Charging cable pack and apple airpods shows the largest Q4 order surge, reinforcing the their role as seasonal bestsellers. Sales typically dip in Jan and Feb, reflecting post holiday demand slowdown. Macbook Air, Thinkpad laptops demonstrate consistent baseline demand, with stable order volume throughout Q2 and Q3, though lower than Q4 peaks. Order volume is highly seasonal, with Q4 driving a disproportionate share of annual orders. Core products maintaine steady demand year over year making them reliable revenue anchors. Non-core products shows negligible order activity.| Alignn inventory and marketing strategies to captialize on Q4 demand spikes. Use Q1 promotions to smooth post holiday sales declines. Focus on product expansion and cross selling around consistently demanded products.|
 | AOV | AOV peaked in 2020 at $300.16, driven by increased demand for high ticket items during the pandamic. AOV declined in 2021($254.71) and 2022 ($229.91), reflecting post pandamic normalisation. The Macbook Air ($1588.12), Thinkpad Laptop ($1099.56) and apple iphone ($740.72) are the largest contributors to AOV, due to high price point. Low cost products such as the Samsung Charging Cable pack ($20.20) and Samsung Webcam ($50.43) maintain stable sales but have minimal impact on AOV.| AOV is heavily influenced by premium products mix, not pricing chnages. Reduced demand for high ticket items directly lower AOV Lower priced accessories provide volume stabilty but not materially improve revenue per order.| Provide incentives on high AOV products through finiancing options, limited time offers, or loyalty program rewards. Use accessories as add on rather than standalone sales to lift AOV Promote laptop and monitor bundles during peak season to stabalize AOV.|
 | Refund Rate |Most Refunded Products: Bose Soundsport Headphones, Samsung Charging Cable Pack, and Samsung Webcam show the highest refund rates. Least Refunded Products: MacBook Air Laptop and ThinkPad Laptop consistently rank among the lowest in refund rates. Apple AirPods Headphones maintain a relatively consistent refund rate year over year. Accessories tend to have higher historical refund rates than laptops. Refund rates steadily decline from 2019 to 2022.  | Accessory and electronics add-ons may face higher compatibility or quality issues, requiring better product descriptions and QA checks. High-value products show stronger customer satisfaction and confidence, supporting continued focus on premium product offerings.|
