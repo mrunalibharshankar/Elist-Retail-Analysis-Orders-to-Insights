@@ -38,6 +38,8 @@ This analysis explores sales data from Elist, an electronics retailer offering p
 | Seasonality | Sales peak during Aug–Dec across multiple years | Q3–Q4 are critical revenue-driving periods |
 | Volatility | Large MoM fluctuations observed, especially in 2021 | Reflects external shocks and recovery cycles impacting revenue |
 
+> 🟦 Blue = Positive Growth | 🟧 Orange = Negative Growth
+
 | Sales Revenue YoY | Sales Revenue MoM |
 |------------------|------------|
 | ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/YoY%20of%20Sales%20Revenue.png)|![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/MoM%20of%20Sales%20Revenue.png)|
@@ -60,6 +62,7 @@ Sales exhibit clear seasonality, with consistent uplift during Q3–Q4, making t
 | Seasonality | Orders consistently peak during Q3–Q4 | Seasonal demand and campaigns strongly influence order volume |
 | Volatility | 2022 shows steep negative YoY values (especially Sep–Dec) | Indicates customer demand contraction rather than short-term fluctuation |
 
+> 🟦 Blue = Positive Growth | 🟧 Orange = Negative Growth
 
 | Orders YoY | Orders MoM |
 |------------------|------------|
@@ -82,6 +85,8 @@ Seasonal spikes in Q3–Q4 remain consistent, highlighting the importance of dem
 | YoY Stability | AOV remains relatively stable compared to orders and sales | Revenue volatility is driven more by volume than basket size |
 | 2021 Decline | Majority of 2021 months show negative YoY AOV | Increased discounting or shift toward lower-priced products |
 | 2022 Recovery | AOV decline moderates in 2022 with some positive YoY months | Pricing strategy or product mix improvement |
+
+> 🟦 Blue = Positive Growth | 🟧 Orange = Negative Growth
 
 | AOV YoY | AOV MoM |
 |------------------|------------|
