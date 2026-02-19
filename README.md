@@ -125,9 +125,9 @@ AOV declined sharply through 2021, with every month recording negative YoY figur
 | Year | Revenue Trend | Orders Trend | AOV Trend |
 |------|--------------|--------------|-----------|
 | 2019 | Baseline | Baseline | Baseline |
-| 2020 | ⬆️ Strong growth | ⬆️ Strong growth | ⬆️ Moderate growth |
-| 2021 | ⬇️ Declining | ⬇️ Declining | ⬇️ Declining |
-| 2022 | ⬇️ Significant drop | ⬇️ Significant drop | ↔️ Stabilizing |
+| 2020 | Strong growth | Strong growth | Moderate growth |
+| 2021 | Declining | Declining | Declining |
+| 2022 | Significant drop | Significant drop | Stabilizing |
 
 > **Key Takeaway:** The 2020 COVID-19 pandemic created an exceptional demand spike across all three metrics. The consistency of negative YoY figures by 2022 across revenue and orders, while AOV begins stabilizing, suggests volume recovery should be the primary focus for strategic intervention.
 
@@ -391,59 +391,30 @@ Based on the analysis of $28.11M in revenue across 108,124 orders from 2019–20
 #### 5.1 Sales Trends
 **Impact:** Post-pandemic demand normalization has driven consistent YoY decline through 2021–2022 across all metrics.
 
-| Priority | Action | Expected Impact |
-|----------|--------|-----------------|
-| 🔴 High | Investigate Q3–Q4 seasonality to plan targeted campaigns during peak months | Recover revenue through demand planning |
-| 🔴 High | Develop strategies to reverse 2022 YoY decline before it becomes structural | Stabilize revenue baseline |
-| 🟡 Medium | Monitor AOV stabilization in 2022 as early indicator of recovery | Early warning system for revenue health |
-
----
-
 #### 5.2 Product Performance
 **Impact:** Revenue is heavily concentrated in 3 products — 27in 4K Gaming Monitor, Apple AirPods and MacBook Air — creating portfolio risk.
-
-| Priority | Action | Expected Impact |
-|----------|--------|-----------------|
-| 🔴 High | Prioritize inventory and marketing for 27in 4K Gaming Monitor — consistent top performer across all regions | Protect $9.8M revenue stream |
-| 🔴 High | Discontinue or reposition Bose SoundSport Headphones — $3,339 total revenue across 4 years | Free up inventory and marketing resources |
-| 🟡 Medium | Investigate Apple iPhone's low revenue ($213K) despite high AOV ($741) | Targeted marketing could unlock high-value transactions |
-| 🟢 Low | Review Samsung Charging Cable Pack strategy — high volume but negligible revenue contribution | Improve revenue quality per order |
 
 ---
 
 #### 5.3 Loyalty Program
 **Impact:** Loyalty membership grew significantly through 2021 but shows signs of maturation. 2022 marks the first year loyalty members outspend non-loyalty customers.
 
-| Priority | Action | Expected Impact |
-|----------|--------|-----------------|
-| 🔴 High | Introduce stronger loyalty incentives for premium products — laptops show highest AOV gap potential | Drive AOV above $245 loyalty baseline |
-| 🔴 High | Target Apple iPhone buyers for loyalty conversion — currently 0 loyalty AOV recorded | Convert high-value non-loyalty purchasers |
-| 🟡 Medium | Develop loyalty campaigns around Apple AirPods — strongest loyalty order volume driver | Deepen engagement with most active loyalty product |
-| 🟡 Medium | Investigate MacBook Air loyalty data gap in 2019–2020 | Ensure data integrity before drawing conclusions |
-| 🟢 Low | Create accessory bundle incentives for Samsung Charging Cable Pack loyalty members | Convert transactional buyers into loyal customers |
-
 ---
 
 #### 5.4 Regional Strategy
 **Impact:** NA contributes 51.78% of revenue, driven almost entirely by the US (91% of NA). APAC and LATAM remain significantly underpenetrated.
 
-| Priority | Action | Expected Impact |
-|----------|--------|-----------------|
-| 🔴 High | Reduce US revenue concentration risk through targeted EMEA growth strategy | Diversify revenue across regions |
-| 🟡 Medium | Develop APAC market penetration strategy — 13% share with consistent product preferences | Unlock new revenue stream |
-| 🟡 Medium | Pilot LATAM expansion with top performing products — Gaming Monitor and AirPods | Test regional demand with proven products |
-| 🟢 Low | Explore Canada growth opportunities within NA — closest cultural and geographic market | Low-risk incremental NA revenue |
 
 ---
 
 #### 5.5 Summary of Priorities
 
-| Business Area | Top Action | Priority |
-|--------------|------------|----------|
-| Sales | Launch Q3–Q4 seasonal campaigns to capture peak demand | 🔴 High |
-| Product | Discontinue Bose SoundSport and double down on Gaming Monitor | 🔴 High |
-| Loyalty | Introduce premium product loyalty incentives | 🔴 High |
-| Regional | Reduce US concentration through EMEA and APAC expansion | 🔴 High |
+| Business Area | Top Action |
+|--------------|------------|
+| Sales | Launch Q3–Q4 seasonal campaigns to capture peak demand |
+| Product | Discontinue Bose SoundSport and double down on Gaming Monitor | 
+| Loyalty | Introduce premium product loyalty incentives |
+| Regional | Reduce US concentration through EMEA and APAC expansion |
 
 > **Final Takeaway:** Elist has a strong revenue foundation built on premium products and a growing loyalty program. However, post-pandemic demand decline, over-reliance on the US market, and an underperforming product tail represent the most urgent risks to address. Prioritizing the Gaming Monitor, loyalty program incentives, and regional diversification offers the clearest path to sustainable revenue growth beyond 2022.
 
