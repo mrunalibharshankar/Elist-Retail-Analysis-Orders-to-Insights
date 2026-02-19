@@ -29,7 +29,8 @@ This analysis explores sales data from Elist, an electronics retailer offering p
    regional sales strategies.
 
 ### 2. Insights Deep Dive ###
-#### 1. Sales Trends Analysis ####
+#### 1. Northstar Metrics Trends ####
+##### 1.1 Sales Trends Analysis #####
 
 
 | Insight Area | Key Observation | Business Interpretation |
@@ -55,7 +56,7 @@ This analysis explores sales data from Elist, an electronics retailer offering p
 
 Sales exhibit clear seasonality, with consistent uplift during Q3–Q4, making these months critical for planning. 
 
-#### 2. Orders Analysis ####
+##### 1.2 Orders Analysis #####
 
 | Insight Area | Key Observation | Business Interpretation |
 |------|-------------|-------------|
@@ -79,7 +80,7 @@ A sharp YoY decline in 2022 suggests a slowdown in customer purchasing behavior 
 
 Seasonal spikes in Q3–Q4 remain consistent, highlighting the importance of demand planning during peak months.
 
-#### 3. Average Order Value (AOV) ####
+##### 1.3 Average Order Value (AOV) #####
 
   
 | Insight Area | Key Observation | Business Interpretation |
