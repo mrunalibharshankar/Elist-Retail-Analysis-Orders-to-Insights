@@ -327,7 +327,7 @@ Elist operates across four regions — NA, EMEA, APAC, and LATAM. North America 
 | EMEA Second | EMEA contributes 29.24% ($8.2M) | Strong secondary market worth continued investment |
 | Growth Opportunity | APAC (13%) and LATAM (5.98%) lag significantly | Untapped markets with room for strategic expansion |
 
-<img src="url" width="900">
+<img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Revenue%20Distribution%20by%20Region%20(2019%E2%80%932022).png" width="900">
 
 #### Key Insights
 
