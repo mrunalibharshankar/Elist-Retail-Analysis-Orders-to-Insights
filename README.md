@@ -123,8 +123,8 @@ product mix adjustments may be needed to restore pre-pandemic
 
 ---
 
-### 2. Product Performance Analysis ###
-#### 2.1 Sales Revenue by Year and Products
+#### 2. Product Performance Analysis
+##### 2.1 Sales Revenue by Year and Products
 | Insight Area | Key Observation | Business Interpretation |
 |------|-------------|-------------|
 | Top Performer  | 27in 4K Gaming Monitor peaked in 2021 at $3.35M.|Unlike most products peaking in 2020, sustained demand continued into 2021.|
@@ -159,7 +159,7 @@ across all four years, with a peak of just $2,118 in 2020
 — making it a strong candidate for discontinuation to 
 free up inventory and marketing resources.
 
-#### 2.2 Quantity by Product & Year
+##### 2.2 Quantity by Product & Year
 
 | Insight Area | Key Observation | Business Interpretation |
 |------|-------------|-------------|
@@ -197,7 +197,7 @@ Bose SoundSport recorded just 17 units in its best year
 the case for product discontinuation across all metrics, 
 not just revenue.
 
-#### 2.3 AOV by Product & Year
+##### 2.3 AOV by Product & Year
 
 | Insight Area | Key Observation | Business Interpretation |
 |------|-------------|-------------|
@@ -220,7 +220,7 @@ The 27in 4K Gaming Monitor's AOV of ~$430 reveals an important distinction, its 
 
 Samsung Charging Cable Pack records the lowest AOV at $18–$22 across all years — while it contributes to order count, its near-zero impact on revenue and AOV suggests it functions more as an add-on accessory than a standalone revenue driver.
 
-#### 2.4 Refund Rate by Product & Year
+##### 2.4 Refund Rate by Product & Year
 
 | Insight Area | Key Observation | Business Interpretation |
 |------|-------------|-------------|
@@ -247,7 +247,7 @@ Bose SoundSport Headphones recorded 0.00% refund rate across most years — howe
 
 ---  
 
-### 3. Loyalty Program Effectiveness ###
+#### 3. Loyalty Program Effectiveness ###
 
 #### Overview
 The loyalty program grew from 1.83% membership in 2019 to a peak of 19.14% in 2021 before moderating to 11.31% in 2022. 
@@ -312,14 +312,14 @@ The 27in 4K Gaming Monitor shows a consistent loyalty AOV premium of ~$50–$70 
 
 ---
 
-### 4. Regional Performance Evaluation
+#### 4. Regional Performance Evaluation
 
-### Overview
+#### Overview
 Elist operates across four regions — NA, EMEA, APAC, and LATAM. North America dominates revenue at 51.78%, followed by EMEA at 29.24%. APAC and LATAM represent smaller but potentially growable markets at 13.00% and 5.98% respectively.
 
 ---
 
-### 4.1 Revenue Distribution by Region
+##### 4.1 Revenue Distribution by Region
 
 | Insight Area | Key Observation | Business Interpretation |
 |------|-------------|-------------|
@@ -337,7 +337,7 @@ EMEA at $8.2M represents a strong and established secondary market. Its 29.24% s
 
 APAC and LATAM together contribute less than 20% of total revenue despite representing large global populations signaling significant untapped growth potential with the right regional strategy and product mix.
 
-### 4.2 North America Deep Dive — Revenue by Country
+##### 4.2 North America Deep Dive — Revenue by Country
 
 | Insight Area | Key Observation | Business Interpretation |
 |------|-------------|-------------|
@@ -354,7 +354,7 @@ Any significant shift in US demand will directly impact Elist's global revenue.
 
 Canada at 8% ($1.18M) is the only other meaningful contributor within NA. Given geographic and cultural proximity to the US, Canada represents the most accessible expansion opportunity within the region.
 
-### 4.3 Top Revenue Product by Region
+##### 4.3 Top Revenue Product by Region
 
 | Insight Area | Key Observation | Business Interpretation |
 |------|-------------|-------------|
@@ -373,7 +373,7 @@ This suggests Elist's customer preferences are globally uniform rather than regi
 
 Bose SoundSport's last place ranking across every region confirms its underperformance is a global issue rather than a regional one strengthening the case for discontinuation.
 
-### Regional Performance Summary
+#### Regional Performance Summary
 
 | Region | Revenue | % of Total | Top Product | Opportunity |
 |--------|---------|------------|-------------|-------------|
@@ -387,21 +387,21 @@ Bose SoundSport's last place ranking across every region confirms its underperfo
 
 ---
          
-### 5. Business Impact & Next Steps
+### 3. Business Impact & Next Steps
 
-#### 5.1 Sales Trends
+#### Sales Trends
 **Impact:** Post-pandemic demand normalization has driven consistent YoY decline through 2021–2022 across all metrics.
 
-#### 5.2 Product Performance
+#### Product Performance
 **Impact:** Revenue is heavily concentrated in 3 products 27in 4K Gaming Monitor, Apple AirPods and MacBook Air Laptops creating portfolio risk.
 
-#### 5.3 Loyalty Program
+#### Loyalty Program
 **Impact:** Loyalty membership grew significantly through 2021 but shows signs of maturation. 2022 marks the first year loyalty members outspend non-loyalty customers.
 
-#### 5.4 Regional Strategy
+#### Regional Strategy
 **Impact:** NA contributes 51.78% of revenue, driven almost entirely by the US (91% of NA). APAC and LATAM remain significantly underpenetrated.
 
-#### 5.5 Summary of Priorities
+#### Summary of Priorities
 
 | Business Area | Top Action |
 |--------------|------------|
