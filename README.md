@@ -8,8 +8,8 @@ This analysis explores sales data from Elist, an electronics retailer offering p
    Sales peaked at $1.25M in December 2020, likely driven by holiday demand, before gradually declining to a low of $0.18M in October 2022.
    ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Overall%20Sales%20Trend%20Y19-22.png)
 
-   Sales performance showed a clear concentration in high-value products. MacBook Air and ThinkPad laptops consistently contributed the majority of total revenue despite lower order volumes with only 6,880 combined orders, 
-   their $1,381.05 average order value (AOV) far exceeded other categories, underscoring the outsized role premium products play in overall business performance.
+   Sales performance showed a clear concentration in high-value products. MacBook Air and ThinkPad laptops consistently contributed the majority of total revenue despite lower order volumes
+   with only 6,880 combined orders, their $1,381.05 average order value (AOV) far exceeded other categories, underscoring the outsized role premium products play in overall business performance.
    ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Revenue%20v%20Orders%20v%20AOV.png)
    
    From a regional perspective, North America emerged as the dominant market, accounting for 51.78% of total revenue. In contrast, APAC and LATAM demonstrated comparatively lower demand and 
@@ -17,16 +17,22 @@ This analysis explores sales data from Elist, an electronics retailer offering p
    ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Regional%20Metrics.png)
 
    Membership Growth (top bars):
-   Loyalty member growth started very low at 1.83% in 2019, surged to a peak of 19.14% in 2021, then eased back to 11.31% in 2022. Non-loyalty growth followed a similar arc but peaked earlier in 2020 at 19.28%, then steadily declined    to 9.97% by 2022. This suggests the loyalty program gained strong momentum through 2021 but may be maturing or slowing in its ability to attract new members.
+   Loyalty member growth started very low at 1.83% in 2019, surged to a peak of 19.14% in 2021, then eased back to 11.31% in 2022. 
+   Non-loyalty growth followed a similar arc but peaked earlier in 2020 at 19.28%, then steadily declined to 9.97% by 2022. 
+   This suggests the loyalty program gained strong momentum through 2021 but may be maturing or slowing in its ability to 
+   attract new  members.
    
    AOV % (bottom lines):
    Loyalty members showed steady AOV growth from $207 in 2019 to $245 in 2022, while non-loyalty customers were more volatile, peaking at $345 in 2020 before declining to $214 in 2022. 
-   Notably, 2022 marks the first year loyalty members outspent non-loyalty customers, suggesting the program is beginning to drive stronger purchasing behavior, though there remains room to further incentivize 
+   Notably, 2022 marks the first year loyalty members outspent non-loyalty customers, suggesting the program is beginning to drive stronger purchasing behavior, 
+   though there remains room to further incentivize 
    higher spend among members.
    ![Alt Text](https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Loyalty%20Memebership%20Growth.png)
 
-   Overall, the analysis highlights Elist’s reliance on premium products for revenue growth, the strong performance of the North American market, and clear opportunities to enhance loyalty program effectiveness and 
-   regional sales strategies.
+   Overall, the analysis highlights Elist’s reliance on premium products for revenue growth, the strong performance of the North American market, and clear opportunities to enhance 
+   loyalty program  effectiveness and regional sales strategies.
+
+---   
 
 ### 2. Insights Deep Dive ###
 #### 1. Northstar Metrics Trends ####
@@ -46,8 +52,6 @@ This analysis explores sales data from Elist, an electronics retailer offering p
 | | 🟦 Positive Growth · 🟧 Negative Growth |
 
 
-
-
 #### Key Insights ####
 
 2020 represents the strongest revenue year, driven by sustained YoY growth across most months.
@@ -55,6 +59,7 @@ This analysis explores sales data from Elist, an electronics retailer offering p
 2022 shows significant YoY contraction, especially in the second half of the year, signaling demand slowdown.
 
 Sales exhibit clear seasonality, with consistent uplift during Q3–Q4, making these months critical for planning. 
+
 
 ##### 1.2 Orders Analysis #####
 
@@ -79,6 +84,7 @@ Order volumes experienced strong YoY expansion in 2020–2021, reflecting increa
 A sharp YoY decline in 2022 suggests a slowdown in customer purchasing behavior rather than operational issues.
 
 Seasonal spikes in Q3–Q4 remain consistent, highlighting the importance of demand planning during peak months.
+
 
 ##### 1.3 Average Order Value (AOV) #####
 
@@ -114,10 +120,9 @@ pandemic demand normalized.
 to modest positive YoY growth (+3.55%), though overall AOV 
 remained under pressure suggesting pricing strategy or 
 product mix adjustments may be needed to restore pre-pandemic 
-spending levels.
 
+---
 
-      
 ### 2. Product Performance Analysis ###
 #### 2.1 Sales Revenue by Year and Products
 | Insight Area | Key Observation | Business Interpretation |
@@ -153,7 +158,6 @@ Bose SoundSport Headphones recorded negligible revenue
 across all four years, with a peak of just $2,118 in 2020 
 — making it a strong candidate for discontinuation to 
 free up inventory and marketing resources.
-
 
 #### 2.2 Quantity by Product & Year
 
@@ -216,7 +220,6 @@ The 27in 4K Gaming Monitor's AOV of ~$430 reveals an important distinction, its 
 
 Samsung Charging Cable Pack records the lowest AOV at $18–$22 across all years — while it contributes to order count, its near-zero impact on revenue and AOV suggests it functions more as an add-on accessory than a standalone revenue driver.
 
-
 #### 2.4 Refund Rate by Product & Year
 
 | Insight Area | Key Observation | Business Interpretation |
@@ -229,7 +232,8 @@ Samsung Charging Cable Pack records the lowest AOV at $18–$22 across all years
 > 🟩 Green = Higher Refund Rate | 🟥 Red = Lower Refund Rate
 
 <img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Refund%20by%20Product%20%26%20Year.png" width="900">
-> Note: 2022 refund rate data is unavailable and excluded from this analysis.
+
+> NOTE:2022 refund rate data is unavailable and excluded from this analysis.
 
 #### Key Insights
 
@@ -241,36 +245,75 @@ Refund rate data for 2022 is incomplete and has been excluded from analysis. Con
 
 Bose SoundSport Headphones recorded 0.00% refund rate across most years — however given its negligible sales volume, this metric is statistically insignificant and should not be interpreted as a quality indicator.
 
+---  
 
+### 3. Loyalty Program Effectiveness ###
 
+#### Overview
+The loyalty program grew from 1.83% membership in 2019 to a peak of 19.14% in 2021 before moderating to 11.31% in 2022. 
+The deep dive below examines how membership growth and spending behavior differ across products and years between loyalty and non-loyalty customers.
 
+##### 3.1 Membership Growth by Product & Year #####
 
+| Insight Area | Key Observation | Business Interpretation |
+|------|-------------|-------------|
+| Top Loyalty Product | Apple AirPods peaked at 11,267 loyalty orders in 2021 | AirPods are the strongest loyalty program driver across all products |
+| Growing Loyalty | 27in 4K Gaming Monitor grew from 341 in 2019 to 4,326 in 2021 | Gaming monitor is gaining loyalty traction alongside its revenue leadership |
+| Non-Loyalty Dominated | Samsung Charging Cable Pack skews heavily non-loyalty (up to 6,546) | Accessory purchases are largely transactional rather than loyalty-driven |
+| Data Gap | MacBook Air shows no loyalty orders in 2019–2020 | Under investigation — may reflect early program coverage or data gap |
 
+> 🟩 Green = Higher Orders | 🟥 Red = Lower Orders
 
+<img src="url" width="900">
 
+#### Key Insights
+Apple AirPods Headphones are the strongest loyalty product in the portfolio, peaking at 11,267 loyalty orders in 2021 significantly outpacing all other products. This suggests AirPods are a key entry point into the loyalty program and should be prioritized in loyalty marketing campaigns.
 
+The 27in 4K Gaming Monitor shows consistent loyalty order growth from 341 in 2019 to 4,326 in 2021, confirming that Elist's top revenue product is also successfully engaging loyalty members making it doubly important to the business.
 
+Samsung Charging Cable Pack is heavily skewed toward non-loyalty customers, with up to 6,546 non-loyalty orders vs 755 loyalty orders in 2021 suggesting accessory purchases are largely transactional and represent an opportunity to convert repeat accessory buyers into loyalty members.
 
+##### 3.2 AOV by Loyalty Status, Product & Year
 
+| Insight Area | Key Observation | Business Interpretation |
+|------|-------------|-------------|
+| Laptop AOV Gap | MacBook Air loyalty AOV ($1,724) exceeds non-loyalty ($1,658) in 2021 | Loyalty members spend more on premium laptops — program drives higher value purchases |
+| Gaming Monitor Gap | 27in 4K Gaming Monitor loyalty AOV consistently higher ($440–$461) vs non-loyalty ($383–$400) | Loyalty members pay more per transaction for top revenue product |
+| iPhone AOV Gap | Apple iPhone shows no loyalty AOV but non-loyalty AOV of $741–$749 | High-value iPhone purchases are exclusively non-loyalty — significant conversion opportunity |
+| Stable Low AOV | Samsung Charging Cable Pack AOV flat at ~$18–$24 across both groups | Accessory AOV unaffected by loyalty status — price-driven rather than loyalty-driven |
 
+> 🟩 Green = Higher AOV | 🟥 Red = Lower AOV
 
+<img src="url" width="900">
 
+#### Key Insights
 
+MacBook Air loyalty members consistently outspend non-loyalty customers $1,724 vs $1,658 in 2021 and $1,719 vs $1,380 in 2022, confirming that the loyalty program successfully drives higher spending on premium laptop purchases, the highest AOV product in the portfolio.
 
+ThinkPad Laptop loyalty members also consistently outspend non-loyalty customers across all years (~$1,119–$1,141 vs ~$1,014–$1,090), reinforcing that the loyalty program has 
+a meaningful positive effect specifically on premium laptop category spending.
 
+Apple iPhone has no recorded loyalty AOV across any year despite non-loyalty customers spending $710–$749 per transaction, representing a significant missed opportunity to convert high-value iPhone buyers into loyalty members.
 
+The 27in 4K Gaming Monitor shows a consistent loyalty AOV premium of ~$50–$70 over non-loyalty across all years, suggesting loyalty members are more willing to spend on accessories or upgrades alongside their monitor purchase.
 
+##### Loyalty Program Summary
 
-         
-   ### 3. Loyalty Program Evaluation ###
-      1. Evaluation Focus
-      2. Key findings
-      3. Recommendations
-   ### 4. Regional Performance Analysis ###
-      1. Regions Analyzed
-      2. Key Findings
-      3. Recommendations
+| Metric | Loyalty Members | Non-Loyalty Members | Verdict |
+|--------|----------------|---------------------|---------|
+| Top Product | Apple AirPods (11,267 orders) | Samsung Charging Cable Pack (6,546 orders) | Different product preferences by group |
+| Highest AOV Product | MacBook Air ($1,724) | MacBook Air ($1,658) | Loyalty drives higher laptop spend |
+| AOV Trend | Steady growth $207→$245 | Volatile $233→$345→$214 | Loyalty = more predictable spending |
+| 2022 AOV | $245 | $214 | First year loyalty outspends non-loyalty |
+
+> **Key Takeaway:** The loyalty program is most effective in driving higher spend on premium products particularly laptops. 
+> However, Apple iPhone and Samsung Charging Cable Pack represent untapped loyalty opportunities. Targeted incentives for these products could meaningfully improve overall loyalty program AOV 
+> and retention.
+
+---
+### 4. Regional Performance Analysis ###
       
+---     
 4. Business Impact & Next Steps
    1. Overall Insights
    2. Future Enhancements
