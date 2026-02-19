@@ -386,26 +386,17 @@ Bose SoundSport's last place ranking across every region confirms its underperfo
 #### Overview
 Based on the analysis of $28.11M in revenue across 108,124 orders from 2019–2022, the following recommendations are prioritized by potential business impact across four key areas: Sales, Product, Loyalty, and Regional Strategy.
 
----
-
 #### 5.1 Sales Trends
 **Impact:** Post-pandemic demand normalization has driven consistent YoY decline through 2021–2022 across all metrics.
 
 #### 5.2 Product Performance
 **Impact:** Revenue is heavily concentrated in 3 products — 27in 4K Gaming Monitor, Apple AirPods and MacBook Air — creating portfolio risk.
 
----
-
 #### 5.3 Loyalty Program
 **Impact:** Loyalty membership grew significantly through 2021 but shows signs of maturation. 2022 marks the first year loyalty members outspend non-loyalty customers.
 
----
-
 #### 5.4 Regional Strategy
 **Impact:** NA contributes 51.78% of revenue, driven almost entirely by the US (91% of NA). APAC and LATAM remain significantly underpenetrated.
-
-
----
 
 #### 5.5 Summary of Priorities
 
