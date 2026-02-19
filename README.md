@@ -98,11 +98,21 @@ Seasonal spikes in Q3–Q4 remain consistent, highlighting the importance of dem
 
 #### Key Insights ####
 
-AOV is significantly more stable than sales or orders, making it a reliable efficiency metric.
+AOV in 2020 surged across all months (peak: +43.65% YoY in 
+August), suggesting pandemic demand drove both volume and 
+higher-value purchases simultaneously confirming 2020 
+growth was broad-based rather than volume-driven alone.
 
-Declining AOV in 2021 suggests aggressive promotions or changes in product mix to drive volume.
+AOV declined sharply through 2021, with every month recording 
+negative YoY figures, bottoming at -22.36% in December
+indicating customers shifted toward lower-value purchases as 
+pandemic demand normalized.
 
-Partial AOV recovery in 2022 indicates improved pricing discipline or customer purchasing behavior.
+2022 showed partial stabilization, with September returning 
+to modest positive YoY growth (+3.55%), though overall AOV 
+remained under pressure suggesting pricing strategy or 
+product mix adjustments may be needed to restore pre-pandemic 
+spending levels.
 
 
       
