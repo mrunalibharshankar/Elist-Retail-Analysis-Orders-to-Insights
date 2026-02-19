@@ -208,29 +208,13 @@ not just revenue.
 
 #### Key Insights
 
-MacBook Air Laptop consistently commands the highest AOV 
-across all four years ($1,500–$1,657), confirming that 
-laptop purchases represent the highest-value individual 
-transactions in Elist's portfolio — making them critical 
-to protecting AOV even as order volumes fluctuate.
+MacBook Air Laptop consistently commands the highest AOV across all four years ($1,500–$1,657), confirming that laptop purchases represent the highest-value individual transactions in Elist's portfolio making them critical to protecting AOV even as order volumes fluctuate.
 
-ThinkPad Laptop maintains a stable second-place AOV of 
-~$1,100 across all years, reinforcing that the laptop 
-category as a whole anchors Elist's average transaction 
-value — without laptops, overall AOV would drop 
-significantly.
+ThinkPad Laptop maintains a stable second-place AOV of ~$1,100 across all years, reinforcing that the laptop category as a whole anchors Elist's average transaction value without laptops, overall AOV would drop significantly.
 
-The 27in 4K Gaming Monitor's AOV of ~$430 reveals an 
-important distinction — its revenue leadership is driven 
-by consistently high order volumes rather than high 
-individual transaction value, making it volume-dependent 
-and therefore more sensitive to demand shifts.
+The 27in 4K Gaming Monitor's AOV of ~$430 reveals an important distinction, its revenue leadership is driven by consistently high order volumes rather than high individual transaction value, making it volume-dependent and therefore more sensitive to demand shifts.
 
-Samsung Charging Cable Pack records the lowest AOV at 
-$18–$22 across all years — while it contributes to order 
-count, its near-zero impact on revenue and AOV suggests 
-it functions more as an add-on accessory than a 
-standalone revenue driver.
+Samsung Charging Cable Pack records the lowest AOV at $18–$22 across all years — while it contributes to order count, its near-zero impact on revenue and AOV suggests it functions more as an add-on accessory than a standalone revenue driver.
 
 
 #### 2.4 Refund Rate by Product & Year
@@ -244,34 +228,18 @@ standalone revenue driver.
 
 > 🟩 Green = Higher Refund Rate | 🟥 Red = Lower Refund Rate
 
-<img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Refund%20Rate%20by%20Product%20%26%20Year.png" width="900">
+<img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Refund%20by%20Product%20%26%20Year.png" width="900">
 > Note: 2022 refund rate data is unavailable and excluded from this analysis.
 
 #### Key Insights
 
-MacBook Air and ThinkPad Laptop recorded the highest 
-refund rates of 18.31% and 17.00% respectively in 
-2019–2020 — likely reflecting high customer expectations 
-for premium products and price sensitivity at the $1,500+ 
-price point. This warrants closer investigation into 
-return reasons to protect revenue integrity.
+MacBook Air and ThinkPad Laptop recorded the highest refund rates of 18.31% and 17.00% respectively in 2019–2020, likely reflecting high customer expectations for premium products and price sensitivity at the $1,500+ price point. This warrants closer investigation into return reasons to protect revenue integrity.
 
-Refund rates improved substantially across all products 
-from 2020 to 2021, suggesting either improved product 
-quality, better pre-purchase customer education, or 
-tightened return policies following the high-refund 
-pandemic period.
+Refund rates improved substantially across all products from 2020 to 2021, suggesting either improved product quality, better pre-purchase customer education, or tightened return policies following the high refund pandemic period.
 
-All products show 0.00% refund rate in 2022 — this is 
-unusual and likely reflects a data collection issue 
-rather than a genuine elimination of refunds. This 
-should be flagged and verified before drawing any 
-conclusions from 2022 refund data.
+Refund rate data for 2022 is incomplete and has been excluded from analysis. Conclusions on refund trends are therefore drawn from 2019–2021 data only, during which MacBook Air and ThinkPad consistently recorded the highest return rates among all products.
 
-Bose SoundSport Headphones recorded 0.00% refund rate 
-across most years — however given its negligible sales 
-volume, this metric is statistically insignificant and 
-should not be interpreted as a quality indicator.
+Bose SoundSport Headphones recorded 0.00% refund rate across most years — however given its negligible sales volume, this metric is statistically insignificant and should not be interpreted as a quality indicator.
 
 
 
