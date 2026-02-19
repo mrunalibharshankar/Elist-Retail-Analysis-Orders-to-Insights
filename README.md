@@ -362,7 +362,7 @@ Canada at 8% ($1.18M) is the only other meaningful contributor within NA. Given 
 | Consistent Rankings | Product rankings are identical across APAC, EMEA, LATAM and NA | No significant regional product preference variation |
 | Underperformer | Bose SoundSport ranks last (#8) in every region | Confirms global underperformance — not a regional issue |
 
-<img src="url" width="900">
+<img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Top%20Revenue%20Product%20by%20Region%20(2019%E2%80%932022).png" width="900">
 
 #### Key Insights
 
@@ -387,9 +387,33 @@ Bose SoundSport's last place ranking across every region confirms its underperfo
 
 ---
          
-4. Business Impact & Next Steps
-   1. Overall Insights
-   2. Future Enhancements
+### 5. Business Impact & Next Steps
+
+#### 5.1 Sales Trends
+**Impact:** Post-pandemic demand normalization has driven consistent YoY decline through 2021–2022 across all metrics.
+
+#### 5.2 Product Performance
+**Impact:** Revenue is heavily concentrated in 3 products 27in 4K Gaming Monitor, Apple AirPods and MacBook Air Laptops creating portfolio risk.
+
+#### 5.3 Loyalty Program
+**Impact:** Loyalty membership grew significantly through 2021 but shows signs of maturation. 2022 marks the first year loyalty members outspend non-loyalty customers.
+
+#### 5.4 Regional Strategy
+**Impact:** NA contributes 51.78% of revenue, driven almost entirely by the US (91% of NA). APAC and LATAM remain significantly underpenetrated.
+
+#### 5.5 Summary of Priorities
+
+| Business Area | Top Action |
+|--------------|------------|
+| Sales | Launch Q3–Q4 seasonal campaigns to capture peak demand |
+| Product | Discontinue Bose SoundSport and double down on Gaming Monitor |
+| Loyalty | Introduce premium product loyalty incentives |
+| Regional | Reduce US concentration through EMEA and APAC expansion |
+
+> **Final Takeaway:** Elist has a strong revenue foundation built on premium products and a growing loyalty program. 
+> However, post-pandemic demand decline, over-reliance on the US market, and an underperforming product tail represent the most urgent risks to address. Prioritizing the Gaming Monitor, loyalty program > incentives, and regional diversification offers the clearest path to sustainable revenue growth beyond 2022.
+
+---
       
         
         
