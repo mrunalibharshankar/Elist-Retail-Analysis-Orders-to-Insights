@@ -238,13 +238,14 @@ standalone revenue driver.
 | Insight Area | Key Observation | Business Interpretation |
 |------|-------------|-------------|
 | Highest Refund Rate | MacBook Air (18.31%) and ThinkPad (17.00%) recorded the highest refund rates in 2019–2020 | Premium laptops carry higher return risk, likely due to price sensitivity and quality expectations |
-| Sharp Decline | All products recorded 0.00% refund rate in 2022 | Possible data gap or change in refund tracking methodology — requires verification |
+| 2022 Data Gap | No refund data recorded for 2022 | Insufficient data for 2022 — excluded from refund rate analysis |
 | Improving Trend | Refund rates dropped significantly from 2020 to 2021 across all products | Improved product quality, customer expectations alignment, or stricter return policies |
 | Low Refund Products | Samsung Charging Cable Pack consistently records lowest refund rates | Low-cost accessories have minimal return motivation |
 
 > 🟩 Green = Higher Refund Rate | 🟥 Red = Lower Refund Rate
 
 <img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/Refund%20Rate%20by%20Product%20%26%20Year.png" width="900">
+> Note: 2022 refund rate data is unavailable and excluded from this analysis.
 
 #### Key Insights
 
