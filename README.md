@@ -345,7 +345,7 @@ APAC and LATAM together contribute less than 20% of total revenue despite repres
 | Canada Secondary | Canada contributes 8% ($1.18M) | Meaningful but distant second within NA |
 | Negligible Others | Puerto Rico, Jamaica, Bahamas each at 0% | No meaningful revenue contribution outside US and Canada |
 
-<img src="url" width="900">
+<img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/North%20America%20Revenue%20by%20Country%20(Top%203).png" width="900">
 
 #### Key Insights
 
