@@ -284,7 +284,7 @@ Samsung Charging Cable Pack is heavily skewed toward non-loyalty customers, with
 
 > 🟩 Green = Higher AOV | 🟥 Red = Lower AOV
 
-<img src="url" width="900">
+<img src="https://github.com/mrunalibharshankar/Elist-Retail-Analysis-Orders-to-Insights/blob/main/AOV%20by%20Loyalty%20Status%2C%20Product%20%26%20Year.png" width="900">
 
 #### Key Insights
 
